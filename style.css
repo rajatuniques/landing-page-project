@@ -21,8 +21,8 @@ body {
 .header {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
-    padding: 16px 56px;  
+    justify-content: space-around;
+    padding: 24px;  
 }
 
 .header-links {
@@ -49,8 +49,13 @@ a, a:visited {
     font-weight: 900;
     align-self: center;
     margin: auto;
+    justify-content: space-between;
 }
 
 #first-img {
     width: 500px;
+}
+
+.media p {
+    width: 400px;
 }
