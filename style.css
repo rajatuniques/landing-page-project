@@ -6,6 +6,17 @@
 
 .header {
     display: flex;
+    flex-flow: row wrap;
     justify-content: space-between;
     padding: 16px 56px;  
+}
+
+.header-links {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+
+a, a:visited {
+    text-decoration: none;
 }
