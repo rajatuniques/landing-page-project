@@ -43,6 +43,7 @@ a, a:visited {
 }
 
 .hero .media {
+    display: flex;
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
