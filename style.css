@@ -37,3 +37,9 @@ a, a:visited {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.hero .media {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
