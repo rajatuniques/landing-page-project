@@ -10,6 +10,10 @@ body {
     flex-direction: column;
 }
 
+html, body {
+    height: 100vh;
+}
+
 .hero {
     display: flex;
     flex-flow: column;
