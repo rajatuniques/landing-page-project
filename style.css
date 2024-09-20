@@ -27,6 +27,7 @@ body {
 
 .header-links {
     display: flex;
+    flex-flow: row wrap;
     list-style: none;
     gap: 24px;
 }
@@ -56,6 +57,12 @@ a, a:visited {
     width: 500px;
 }
 
-.media p {
+.media p:nth-of-type(1) {
     width: 400px;
+}
+
+.media p:nth-of-type(2) {
+    font-size: 18px;
+    color: #e5e7eb;
+    width: 500px;
 }
