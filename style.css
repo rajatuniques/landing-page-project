@@ -49,3 +49,7 @@ a, a:visited {
     align-self: center;
     margin: auto;
 }
+
+#first-img {
+    width: 500px;
+}
