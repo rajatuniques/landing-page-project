@@ -156,6 +156,10 @@ figcaption {
     font-weight: 700;
 }
 
+.CTA {
+    padding: 80px 140px;
+}
+
 .cta-box {
     display: flex;
     flex-flow: row wrap;
