@@ -130,10 +130,14 @@ a, a:visited {
     color: #1f2937;
 }
 
+.quote-box {
+    padding: 150px;
+    background-color: #e5e7eb;
+}
+
 .quote {
     display: flex;
-    flex-flow: column wrap;
-    background-color: #e5e7eb;
+    flex-flow: column wrap
 }
 
 .quote blockquote {
@@ -145,4 +149,6 @@ a, a:visited {
 
 figcaption {
     font-size: 18px;
+    margin-left: auto;
+    font-weight: 700;
 }
