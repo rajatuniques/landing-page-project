@@ -195,6 +195,7 @@ figcaption {
 
 .footer {
     display: flex;
+    flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
     background-color: #0a3945;
