@@ -129,3 +129,20 @@ a, a:visited {
     gap: 8px;
     color: #1f2937;
 }
+
+.quote {
+    display: flex;
+    flex-flow: column wrap;
+    background-color: #e5e7eb;
+}
+
+.quote blockquote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 4;
+    color: #1f2937;
+}
+
+figcaption {
+    font-size: 18px;
+}
