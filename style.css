@@ -117,5 +117,11 @@ a, a:visited {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    gap: 16px;
+    gap: 48px;
+}
+
+.m-obj {
+    display: flex;
+    flex-flow: column nowrap;
+    flex: 0 1 150px;
 }
