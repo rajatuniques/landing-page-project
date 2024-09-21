@@ -124,4 +124,6 @@ a, a:visited {
     display: flex;
     flex-flow: column nowrap;
     flex: 0 1 150px;
+    gap: 8px;
+    color: #1f2937;
 }
