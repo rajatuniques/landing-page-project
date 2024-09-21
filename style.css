@@ -166,4 +166,6 @@ figcaption {
     justify-content: center;
     align-content: center;
     gap: 150px;
+    background-color: #3882f6;
+    padding: 32px;
 }
