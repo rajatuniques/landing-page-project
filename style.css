@@ -165,7 +165,8 @@ figcaption {
     flex-flow: row wrap;
     justify-content: center;
     align-content: center;
-    gap: 150px;
+    gap:32px 150px;
+
     background-color: #3882f6;
     padding: 48px;
     border-radius: 8px;
