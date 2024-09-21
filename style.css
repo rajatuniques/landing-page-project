@@ -17,7 +17,7 @@ html, body {
 .hero {
     display: flex;
     flex-flow: column;
-    background-color: #1f2937;
+    background-color: #0a3945;
 
 }
 
@@ -78,7 +78,7 @@ a, a:visited {
 }
 
 .media button {
-    background-color: #3882f6;
+    background-color: #21c394;
     border-radius: 8px;
     padding: 8px 32px;
     font-size: 18px;
@@ -98,7 +98,7 @@ a, a:visited {
 
 .information .container img {
     height: 150px;
-    border: 6px solid #3882f6;
+    border: 6px solid #21c394;
     border-radius: 16px;
 }
 
@@ -132,7 +132,7 @@ a, a:visited {
 
 .quote-box {
     padding: 150px;
-    background-color: #e5e7eb;
+    background-color: #afccc9;
     font-weight: 100;
 }
 
@@ -169,7 +169,7 @@ figcaption {
     gap:32px 150px;
     flex-basis: 1000px;
     margin: auto;
-    background-color: #3882f6;
+    background-color: #21c394;
     padding: 48px;
     border-radius: 8px;
 }
@@ -180,7 +180,7 @@ figcaption {
 }
 
 .cta-box button {
-    background-color: #3882f6;
+    background-color: #21c394;
     border: 3px solid #e5e7eb;
     border-radius: 8px;
     padding: 8px 48px;
@@ -197,7 +197,7 @@ figcaption {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1f2937;
+    background-color: #0a3945;
     color: #e5e7eb;
     padding: 48px;
 }
