@@ -139,8 +139,8 @@ a, a:visited {
 .quote {
     display: flex;
     flex-flow: column wrap;
-    width: 800px;
     margin: auto;
+    max-width: 800px;
 }
 
 .quote blockquote {
