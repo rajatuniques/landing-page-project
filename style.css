@@ -94,3 +94,7 @@ a, a:visited {
     flex-flow: column wrap;
     flex-basis: 450px;
 }
+
+.information .container img {
+    width: 10%;
+}
