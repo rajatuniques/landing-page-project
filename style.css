@@ -126,4 +126,5 @@ a, a:visited {
     flex: 0 1 150px;
     gap: 8px;
     color: #1f2937;
+    padding-bottom: 100px;
 }
