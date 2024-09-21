@@ -98,3 +98,11 @@ a, a:visited {
 .information .container img {
     width: 10%;
 }
+
+.information {
+
+}
+
+.container {
+    display: flex;
+}
