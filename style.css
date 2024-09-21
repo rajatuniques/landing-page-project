@@ -168,4 +168,17 @@ figcaption {
     gap: 150px;
     background-color: #3882f6;
     padding: 32px;
+    border-radius: 8px;
+}
+
+.cta-box .text-box,
+.cta-box button {
+    color: #e5e7eb;
+}
+
+.cta-box button {
+    background-color: #3882f6;
+    border: 3px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 8px 32px;
 }
