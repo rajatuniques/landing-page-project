@@ -56,7 +56,7 @@ a, a:visited {
     color: #f9faf8;
     align-self: center;
     justify-content: center;
-    padding: 100px;
+    padding: 100px 0px;
     gap: 56px;
 
 }
@@ -110,14 +110,14 @@ a, a:visited {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
-    margin: 48px;
+    margin: 48px auto;
 }
 
 .container {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     gap: 48px;
     padding-bottom: 100px;
 }
