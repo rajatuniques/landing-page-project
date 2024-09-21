@@ -157,7 +157,7 @@ figcaption {
 }
 
 .CTA {
-    padding: 100px 550px;
+    padding: 100px;
 }
 
 .cta-box {
@@ -166,7 +166,8 @@ figcaption {
     justify-content: center;
     align-content: center;
     gap:32px 150px;
-
+    width: 1000px;
+    margin: auto;
     background-color: #3882f6;
     padding: 48px;
     border-radius: 8px;
