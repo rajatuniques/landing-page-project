@@ -54,9 +54,9 @@ a, a:visited {
     font-size: 48px;
     color: #f9faf8;
     align-self: center;
-    justify-content: space-evenly;
+    justify-content: center;
     padding: 100px;
-    gap: 32px;
+    gap: 56px;
 
 }
 
