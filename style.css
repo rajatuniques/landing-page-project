@@ -133,18 +133,19 @@ a, a:visited {
 .quote-box {
     padding: 150px;
     background-color: #e5e7eb;
+    font-weight: 100;
 }
 
 .quote {
     display: flex;
-    flex-flow: column wrap
+    flex-flow: column wrap;
 }
 
 .quote blockquote {
     font-size: 36px;
-    font-style: italic;
-    font-weight: 4;
     color: #1f2937;
+    outline: 0;
+    border: 0;
 }
 
 figcaption {
