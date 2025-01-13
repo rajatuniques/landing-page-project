@@ -90,6 +90,16 @@ a, a:visited {
     margin-top: 16px;
 }
 
+.media button:active {
+    text-shadow: 1px 1px 4px rgb(36, 219, 255);
+    box-shadow: inset 1px 1px 4px rgb(107, 107, 107);
+}
+
+.media button:hover {
+    background-color: white;
+    color: #21c394;
+}
+
 .media .text-box {
     display: flex;
     flex-flow: column wrap;
@@ -186,6 +196,18 @@ figcaption {
     padding: 8px 48px;
     font-size: 18px;
     font-weight: 700;
+    cursor: pointer;
+}
+
+.cta-box button:hover {
+    color: #21c394;
+    background-color: #e5e7eb;
+    border-color: #21c394
+}
+
+.cta-box button:active {
+    box-shadow: inset 1px 1px 4px rgb(137, 154, 248);
+    text-shadow: 1px 1px 4px rgb(58, 242, 255);
 }
 
 .upper {
